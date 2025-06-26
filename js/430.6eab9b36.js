@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvolunteer"]=self["webpackChunkvolunteer"]||[]).push([[430],{8430:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var r=u(6768);function t(n,e,u,t,c,l){return(0,r.uX)(),(0,r.CE)("div",null,"活动管理")}var c={},l=u(1241);const a=(0,l.A)(c,[["render",t]]);var f=a}}]);
-//# sourceMappingURL=430.6eab9b36.js.map
